@@ -8,6 +8,9 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to 
 
 ![Netflix Analysis](Netflix-data-analysis.PNG)
 
+## 📌 Dataset
+Netflix Movies and TV Shows Dataset (Kaggle)
+
 ## 📊 Key Insights
 
 * Most content on Netflix consists of Movies compared to TV Shows.
