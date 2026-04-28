@@ -4,6 +4,8 @@
 
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to identify trends in content, genres, duration, and country-wise distribution using Python.
 
+## 📊 Sample Visualization
+
 ## 📊 Key Insights
 
 * Most content on Netflix consists of Movies compared to TV Shows.
