@@ -29,6 +29,8 @@ Analyze Netflix dataset to identify trends in content, genres, and growth.
 * Source: Kaggle Netflix Dataset
 * Contains information about movies, TV shows, genres, release year, and country
 
+> Note: The dataset file is large and may not preview on GitHub. Please download it to view.
+
 ---
 
 ## 🔍 Steps Performed
