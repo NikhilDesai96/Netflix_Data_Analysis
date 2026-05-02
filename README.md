@@ -1,35 +1,37 @@
-# 📊 Netflix Data Analysis
+# Netflix Data Analysis
 
-## 🔍 Project Overview
+## 📌 Objective
 
-This project performs Exploratory Data Analysis (EDA) on the Netflix dataset to identify trends in content, genres, duration, and country-wise distribution using Python.
+Analyze Netflix dataset to identify trends in content, genres, and release patterns using data analytics techniques.
 
-## 📊 Sample Visualization
+---
 
-![Netflix Analysis](Netflix-data-analysis.PNG)
+## 🛠️ Tools Used
 
-## 📌 Dataset
-Netflix Movies and TV Shows Dataset (Kaggle)
+* Python (Pandas, NumPy)
+* Matplotlib / Seaborn
+* Jupyter Notebook
+
+---
+
+## 🔍 Steps Performed
+
+* Data Cleaning (handled missing values and duplicates)
+* Data Transformation and preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+
+---
 
 ## 📊 Key Insights
 
-* Most content on Netflix consists of Movies compared to TV Shows.
-* Content on Netflix increased significantly after 2015, indicating rapid platform growth.
-* Drama is one of the most common genres, showing strong audience preference.
-* Most movies have a duration between 90 and 120 minutes.
-* The United States produces the highest amount of content, followed by India and the United Kingdom.
+* Movies dominate Netflix content compared to TV shows
+* Most content was added between 2017–2019
+* USA and India are major contributors to content
+* Drama and International genres are highly popular
 
-## 🛠 Tools Used
+---
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
+## 📈 Conclusion
 
-## 📁 Project Workflow
-
-* Data Cleaning
-* Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Additional Analysis
-* Final Insights
+This analysis helps understand content trends and supports data-driven decision-making for content strategy.
