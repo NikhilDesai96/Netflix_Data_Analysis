@@ -6,6 +6,15 @@ Analyze Netflix dataset to identify trends in content, genres, and release patte
 
 ---
 
+## ❓ Business Questions  
+
+- What is the distribution of Movies vs TV Shows?  
+- Which countries produce the most content?  
+- How has Netflix content grown over the years?  
+- Which genres are most popular?
+
+---
+ 
 ## 🛠️ Tools Used
 
 * Python (Pandas, NumPy)
