@@ -11,6 +11,7 @@ Analyze Netflix dataset to identify trends in content, genres, and release patte
 * Python (Pandas, NumPy)
 * Matplotlib / Seaborn
 * Jupyter Notebook
+* Data Cleaning & Exploratory Data Analysis using Pandas
 
 ---
 
