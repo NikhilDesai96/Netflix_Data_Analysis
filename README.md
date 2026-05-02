@@ -43,3 +43,9 @@ Analyze Netflix dataset to identify trends in content, genres, and release patte
 ## 📈 Conclusion
 
 This project demonstrates how data analytics techniques can be used to extract meaningful insights and support data-driven decision-making.
+
+## 📊 Sample Visualization  
+![Netflix Analysis](Netflix-data-analysis.PNG)
+
+
+
